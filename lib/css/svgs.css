@@ -1,0 +1,6 @@
+.chart svg {
+  border-left: solid 2px #ddd;
+  left: 360px;
+  position: absolute;
+  top: 0;
+}
